@@ -39,6 +39,13 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Admin Login Credentials
+
+```bash
+User: admin
+Passowrd: admin123
+```
+
 The application automatically initializes the database (`toolkit.db`), encryption key (`secret.key`), and activity log on first execution.
 
 ## Project Files
